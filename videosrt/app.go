@@ -2,10 +2,10 @@ package videosrt
 
 import (
 	"bytes"
-	"config/ini"
-	"github.com.wxbool/video-srt/videosrt/aliyun/cloud"
-	"github.com.wxbool/video-srt/videosrt/aliyun/oss"
-	"github.com.wxbool/video-srt/videosrt/ffmpeg"
+	"video-srt/config/ini"
+	"video-srt/videosrt/aliyun/cloud"
+	"video-srt/videosrt/aliyun/oss"
+	"video-srt/videosrt/ffmpeg"
 	"github.com/buger/jsonparser"
 	"os"
 	"path"

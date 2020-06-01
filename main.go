@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com.wxbool/video-srt/videosrt"
 	"log"
 	"os"
 	"path/filepath"
 	"time"
+	"video-srt/videosrt"
 )
 
 //定义配置文件
